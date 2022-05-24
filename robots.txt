@@ -4,7 +4,7 @@
 #    | | ::[ Dear 🤖 ]: | |  |
 #    | | ::::[ be nice ]:: | |  |
 #    | | ::::::::::::::::: | |  |
-#    | | ::::::::::::::::: | |  |
+#    | | ::🇬chrome::::::: | |  |
 #    | | ::::::::::::::::: | |  |
 #    | | ::::::::::::::::: | | ,|
 #    | !___________________! |(c|
@@ -15,6 +15,7 @@
 #(  [][][][][____________][][][][]  )
 # \ ------------------------------ /
 #  \______________________________/
+#
 User-agent: *
 Disallow: /*__*
 # lp
@@ -23,21 +24,20 @@ Disallow: /+
 # feedback
 Disallow: /feedback
 Sitemap: https://services.me/sitemap.xml
-Sitemap: https://services.me/en-gb/sitemap.xml
-Sitemap: https://services.me/en-it/sitemap.xml
-Sitemap: https://services.me/en-us/sitemap.xml
-Sitemap: https://services.me/en-jp/sitemap.xml
-Sitemap: https://services.me/en-ph/sitemap.xml
 #              ________
 #   __,_,     |        |
-#  [_|_/      |   💬   |
+#  [_|_/      |  💬  |
 #   //        |________|
-# _//    __  /
-#(_|)   |🤖|
-# \ \__ \--/ __
-#  \o__|----|  |   __
+# _//   _🤖_  /
+#(_|)   |👀|
+# \ \__ \👅/ __
+#  \🍎_|-🌀-|  |   __
 #      \ 🫀 /\ )_ / _\
-#      /\__/\ \__O (__
-#     (--/\--)    \__/
+#      /\⚡/\ \__🍎(__
+#     (-/--\-)    \__/
 #     _)(  )(_
 #    `---''---`
+#🌐borderless📌local🛡️online
+#emoji.SERVICESWITH.me
+#that🔌and just work.💼
+#🇬PMax🚀.SPONSOREDAds.net
